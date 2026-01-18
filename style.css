@@ -1,15 +1,15 @@
 @font-face {
-    font-family: "Inter-Bold";
+    font-family: "Inter-1";
     src: url("/social-links-profile-main/assets/fonts/static/Inter-Bold.ttf");
 }
 
 @font-face {
-    font-family: "Inter-Regular";
+    font-family: "Inter-2";
     src: url("/social-links-profile-main/assets/fonts/static/Inter-Regular.ttf");
 }
 
 @font-face {
-    font-family: "Inter-Semibold";
+    font-family: "Inter-3";
     src: url("/social-links-profile-main/assets/fonts/static/Inter-SemiBold.ttf");
 }
 
@@ -51,7 +51,7 @@ body{
 }
 
 .table h1{
-    font-family: "Inter-SemiBold";
+    font-family: "Inter-3";
     font-size: 20px;
     color: white;
     margin-top: 20px;
@@ -59,14 +59,14 @@ body{
 }
 
 .table h2{
-    font-family: "Inter-Bold";
+    font-family: "Inter-1";
     font-size: 14px;
     color: #C5F82A;
     margin-top: -5px;
 }
 
 .table p{
-    font-family: "Inter-Regular";
+    font-family: "Inter-2";
     font-size: 14px;
     color: white;
 }
@@ -81,7 +81,7 @@ body{
     height: 34px;
     border-radius: 8px;
     opacity: 1;
-    font-family: "Inter-SemiBold";
+    font-family: "Inter-3";
     font-size: 14px;
     color: white;
     text-decoration: none;
